@@ -87,6 +87,7 @@ def build_anki_export(words, creds_path):
     """
     anki_lines = []
     audio_files = {}   # filename -> bytes
+    png_files = set()  # card PNG filenames
     errors = []
 
     for i, w in enumerate(words):
@@ -103,9 +104,15 @@ def build_anki_export(words, creds_path):
             errors.append(w["chinese"])
             sound_tag = ""
 
-        # Anki import format: Chinese | Pinyin | English | Audio
-        line = f'{w["chinese"]}\t{w["pinyin"]}\t{w["english"]}\t{sound_tag}'
+        # picture tag — card file is e.g. "01_dian.png"
+        card_file = w.get("card", "")
+        img_tag = f'<img src="{card_file}">' if card_file else ""
+
+        # Anki import format: Chinese | Pinyin | English | Audio | Picture
+        line = f'{w["chinese"]}\t{w["pinyin"]}\t{w["english"]}\t{sound_tag}\t{img_tag}'
         anki_lines.append(line)
+        if card_file:
+            png_files.add(card_file)
 
     # build zip in memory
     buf = io.BytesIO()
@@ -114,5 +121,11 @@ def build_anki_export(words, creds_path):
         zf.writestr("vasilina_anki.txt", txt)
         for fname, data in audio_files.items():
             zf.writestr(fname, data)
+        # include card PNG images
+        cards_dir = os.environ.get("CARDS_DIR", "output_png")
+        for png in png_files:
+            png_path = os.path.join(cards_dir, png)
+            if os.path.exists(png_path):
+                zf.write(png_path, png)
     buf.seek(0)
     return buf.read(), len(words), errors

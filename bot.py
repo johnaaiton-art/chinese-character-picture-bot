@@ -125,11 +125,17 @@ def get_example_sentence(word_chinese, word_english, pinyin):
 @bot.message_handler(commands=["start", "help"])
 def cmd_start(msg):
     bot.send_message(msg.chat.id,
-        "你好！👋\n\n"
-        "Send /next to see your next character card.\n"
-        "Tap words you want to add to Anki, then press ✅ Done.\n"
-        "Press 😎 if you already know everything on the card.\n\n"
-        "加油！💪"
+        "你好 Vasilina！👋\n\n"
+        "这是你的汉字卡片机器人 🀄\n"
+        "This is your Chinese character builder bot.\n\n"
+        "How it works:\n"
+        "• /next — see the next character card\n"
+        "• Tap any words you want to add to Anki\n"
+        "• Press ✅ Done — words are saved + you get an example sentence\n"
+        "• Press 😎 if you already know everything on the card\n"
+        "• /export — get this week\'s words as an Anki import file with audio\n"
+        "• /reset — go back to the first card\n\n"
+        "加油！💪 Let\'s go!"
     )
 
 @bot.message_handler(commands=["next"])
@@ -296,8 +302,9 @@ def cmd_export(msg):
                 f"✅ Anki export ready!\n\n"
                 f"📦 {n} words · 🎵 MP3 audio included\n\n"
                 f"1. Unzip\n"
-                f"2. Copy *.mp3 → your Anki media folder\n"
-                f"3. Anki → File → Import → vasilina_anki.txt"
+                f"2. Copy *.mp3 and *.png → your Anki media folder\n"
+                f"3. Anki → File → Import → vasilina_anki.txt\n"
+                f"4. Fields: Chinese | Pinyin | English | Audio | Picture"
             )
         )
         if errors:
