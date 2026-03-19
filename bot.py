@@ -260,3 +260,51 @@ def cb_done(call):
 if __name__ == "__main__":
     log.info("Vasilina Cards Bot starting...")
     bot.infinity_polling(timeout=30, long_polling_timeout=30)
+
+# ── /export command ───────────────────────────────────────────────────────────
+from export_anki import get_this_week_words, build_anki_export
+
+@bot.message_handler(commands=["export"])
+def cmd_export(msg):
+    bot.send_message(msg.chat.id,
+        "⏳ Fetching this week's words from Google Sheets and generating audio...\n"
+        "This may take 30–60 seconds.")
+    try:
+        words = get_this_week_words(
+            sheet_id=SHEET_ID,
+            creds_path=CREDS_PATH,
+            days=7
+        )
+        if not words:
+            bot.send_message(msg.chat.id,
+                "No words found from the last 7 days.\n"
+                "Tap some word buttons on a card first, then press ✅ Done!")
+            return
+
+        bot.send_message(msg.chat.id,
+            f"Found {len(words)} words. Generating TTS audio now... 🎵")
+
+        zip_bytes, n, errors = build_anki_export(words, CREDS_PATH)
+
+        # send zip
+        import io
+        bot.send_document(
+            msg.chat.id,
+            io.BytesIO(zip_bytes),
+            visible_file_name=f"vasilina_anki_{datetime.now().strftime('%Y%m%d')}.zip",
+            caption=(
+                f"✅ Anki export ready!\n\n"
+                f"📦 {n} words · 🎵 MP3 audio included\n\n"
+                f"1. Unzip\n"
+                f"2. Copy *.mp3 → your Anki media folder\n"
+                f"3. Anki → File → Import → vasilina_anki.txt"
+            )
+        )
+        if errors:
+            bot.send_message(msg.chat.id,
+                f"⚠️ TTS failed for: {', '.join(errors)}\n"
+                f"These words are in the .txt but without audio.")
+
+    except Exception as e:
+        log.error(f"Export error: {e}")
+        bot.send_message(msg.chat.id, f"❌ Export failed: {str(e)}")
