@@ -1,0 +1,174 @@
+{
+  "char": "日",
+  "tone": 4,
+  "pinyin": "rì",
+  "meaning": "sun / day",
+  "type": "phonetic",
+  "satellites": [
+    {
+      "word": [
+        [
+          "今",
+          1
+        ],
+        [
+          "天",
+          1
+        ]
+      ],
+      "pinyin": "jīntiān",
+      "english": "today",
+      "breakdown": "今 now + 天 sky"
+    },
+    {
+      "word": [
+        [
+          "明",
+          2
+        ],
+        [
+          "天",
+          1
+        ]
+      ],
+      "pinyin": "míngtiān",
+      "english": "tomorrow",
+      "breakdown": "明 bright + 天"
+    },
+    {
+      "word": [
+        [
+          "昨",
+          2
+        ],
+        [
+          "天",
+          1
+        ]
+      ],
+      "pinyin": "zuótiān",
+      "english": "yesterday",
+      "breakdown": "昨 previous + 天"
+    },
+    {
+      "word": [
+        [
+          "早",
+          3
+        ],
+        [
+          "上",
+          4
+        ]
+      ],
+      "pinyin": "zǎoshang",
+      "english": "morning",
+      "breakdown": "早 early + 上"
+    },
+    {
+      "word": [
+        [
+          "星",
+          1
+        ],
+        [
+          "期",
+          1
+        ]
+      ],
+      "pinyin": "xīngqī",
+      "english": "week",
+      "breakdown": "星 star + 期 period"
+    },
+    {
+      "word": [
+        [
+          "时",
+          2
+        ],
+        [
+          "间",
+          1
+        ]
+      ],
+      "pinyin": "shíjiān",
+      "english": "time",
+      "breakdown": "时 time + 间 between"
+    },
+    {
+      "word": [
+        [
+          "每",
+          3
+        ],
+        [
+          "天",
+          1
+        ]
+      ],
+      "pinyin": "měitiān",
+      "english": "every day",
+      "breakdown": "每 every + 天"
+    },
+    {
+      "word": [
+        [
+          "晚",
+          3
+        ],
+        [
+          "上",
+          4
+        ]
+      ],
+      "pinyin": "wǎnshang",
+      "english": "evening",
+      "breakdown": "晚 late + 上"
+    },
+    {
+      "word": [
+        [
+          "晴",
+          2
+        ],
+        [
+          "天",
+          1
+        ]
+      ],
+      "pinyin": "qíngtiān",
+      "english": "sunny day",
+      "breakdown": "晴 clear + 天"
+    },
+    {
+      "word": [
+        [
+          "日",
+          4
+        ],
+        [
+          "记",
+          4
+        ]
+      ],
+      "pinyin": "rìjì",
+      "english": "diary",
+      "breakdown": "日 day + 记 record"
+    },
+    {
+      "word": [
+        [
+          "假",
+          4
+        ],
+        [
+          "日",
+          4
+        ]
+      ],
+      "pinyin": "jiàrì",
+      "english": "holiday",
+      "breakdown": "假 false/break + 日"
+    }
+  ]
+}

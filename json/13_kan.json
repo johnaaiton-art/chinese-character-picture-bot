@@ -1,0 +1,141 @@
+{
+  "char": "看",
+  "tone": 4,
+  "pinyin": "kàn",
+  "meaning": "look / watch / read",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "看",
+          4
+        ],
+        [
+          "电",
+          4
+        ],
+        [
+          "影",
+          3
+        ]
+      ],
+      "pinyin": "kàn diànyǐng",
+      "english": "watch a movie",
+      "breakdown": "看 + 电影 movie"
+    },
+    {
+      "word": [
+        [
+          "看",
+          4
+        ],
+        [
+          "电",
+          4
+        ],
+        [
+          "视",
+          4
+        ]
+      ],
+      "pinyin": "kàn diànshì",
+      "english": "watch TV",
+      "breakdown": "看 + 电视 TV"
+    },
+    {
+      "word": [
+        [
+          "看",
+          4
+        ],
+        [
+          "见",
+          4
+        ]
+      ],
+      "pinyin": "kànjiàn",
+      "english": "see / catch sight of",
+      "breakdown": "看 + 见 see"
+    },
+    {
+      "word": [
+        [
+          "看",
+          4
+        ],
+        [
+          "起",
+          3
+        ],
+        [
+          "来",
+          2
+        ]
+      ],
+      "pinyin": "kàn qǐlai",
+      "english": "it seems / looks like",
+      "breakdown": "看 + 起来"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "看",
+          4
+        ]
+      ],
+      "pinyin": "hǎokàn",
+      "english": "good-looking",
+      "breakdown": "好 good + 看"
+    },
+    {
+      "word": [
+        [
+          "看",
+          4
+        ],
+        [
+          "书",
+          1
+        ]
+      ],
+      "pinyin": "kànshū",
+      "english": "read a book",
+      "breakdown": "看 + 书 book"
+    },
+    {
+      "word": [
+        [
+          "看",
+          4
+        ],
+        [
+          "病",
+          4
+        ]
+      ],
+      "pinyin": "kànbìng",
+      "english": "see a doctor",
+      "breakdown": "看 + 病 illness"
+    },
+    {
+      "word": [
+        [
+          "看",
+          4
+        ],
+        [
+          "望",
+          4
+        ]
+      ],
+      "pinyin": "kànwàng",
+      "english": "visit someone",
+      "breakdown": "看 + 望 hope/visit"
+    }
+  ]
+}

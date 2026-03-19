@@ -1,0 +1,126 @@
+{
+  "char": "手",
+  "tone": 3,
+  "pinyin": "shǒu",
+  "meaning": "hand",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "手",
+          3
+        ],
+        [
+          "机",
+          1
+        ]
+      ],
+      "pinyin": "shǒujī",
+      "english": "mobile phone",
+      "breakdown": "手 + 机 machine"
+    },
+    {
+      "word": [
+        [
+          "洗",
+          3
+        ],
+        [
+          "手",
+          3
+        ]
+      ],
+      "pinyin": "xǐshǒu",
+      "english": "wash hands",
+      "breakdown": "洗 wash + 手"
+    },
+    {
+      "word": [
+        [
+          "洗",
+          3
+        ],
+        [
+          "手",
+          3
+        ],
+        [
+          "间",
+          1
+        ]
+      ],
+      "pinyin": "xǐshǒujiān",
+      "english": "restroom",
+      "breakdown": "洗手 + 间 room"
+    },
+    {
+      "word": [
+        [
+          "手",
+          3
+        ],
+        [
+          "机",
+          1
+        ],
+        [
+          "游",
+          2
+        ],
+        [
+          "戏",
+          4
+        ]
+      ],
+      "pinyin": "shǒujī yóuxì",
+      "english": "mobile game",
+      "breakdown": "手机 + 游戏 game"
+    },
+    {
+      "word": [
+        [
+          "手",
+          3
+        ],
+        [
+          "表",
+          3
+        ]
+      ],
+      "pinyin": "shǒubiǎo",
+      "english": "wristwatch",
+      "breakdown": "手 + 表 surface/watch"
+    },
+    {
+      "word": [
+        [
+          "握",
+          4
+        ],
+        [
+          "手",
+          3
+        ]
+      ],
+      "pinyin": "wòshǒu",
+      "english": "handshake",
+      "breakdown": "握 grasp + 手"
+    },
+    {
+      "word": [
+        [
+          "歌",
+          1
+        ],
+        [
+          "手",
+          3
+        ]
+      ],
+      "pinyin": "gēshǒu",
+      "english": "singer",
+      "breakdown": "歌 song + 手"
+    }
+  ]
+}

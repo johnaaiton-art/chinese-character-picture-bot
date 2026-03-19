@@ -1,0 +1,118 @@
+{
+  "char": "老",
+  "tone": 3,
+  "pinyin": "lǎo",
+  "meaning": "old / very",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "老",
+          3
+        ],
+        [
+          "师",
+          1
+        ]
+      ],
+      "pinyin": "lǎoshī",
+      "english": "teacher",
+      "breakdown": "老 + 师 master"
+    },
+    {
+      "word": [
+        [
+          "老",
+          3
+        ],
+        [
+          "板",
+          3
+        ]
+      ],
+      "pinyin": "lǎobǎn",
+      "english": "boss",
+      "breakdown": "老 + 板 board"
+    },
+    {
+      "word": [
+        [
+          "老",
+          3
+        ],
+        [
+          "公",
+          1
+        ]
+      ],
+      "pinyin": "lǎogōng",
+      "english": "husband",
+      "breakdown": "老 + 公 public"
+    },
+    {
+      "word": [
+        [
+          "老",
+          3
+        ],
+        [
+          "婆",
+          2
+        ]
+      ],
+      "pinyin": "lǎopo",
+      "english": "wife",
+      "breakdown": "老 + 婆 woman"
+    },
+    {
+      "word": [
+        [
+          "老",
+          3
+        ],
+        [
+          "家",
+          1
+        ]
+      ],
+      "pinyin": "lǎojiā",
+      "english": "hometown",
+      "breakdown": "老 + 家 home"
+    },
+    {
+      "word": [
+        [
+          "老",
+          3
+        ],
+        [
+          "外",
+          4
+        ]
+      ],
+      "pinyin": "lǎowài",
+      "english": "foreigner",
+      "breakdown": "老 + 外 outside"
+    },
+    {
+      "word": [
+        [
+          "老",
+          3
+        ],
+        [
+          "朋",
+          2
+        ],
+        [
+          "友",
+          3
+        ]
+      ],
+      "pinyin": "lǎo péngyou",
+      "english": "old friend",
+      "breakdown": "老 + 朋友 friend"
+    }
+  ]
+}

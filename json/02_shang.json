@@ -1,0 +1,129 @@
+{
+  "char": "上",
+  "tone": 4,
+  "pinyin": "shàng",
+  "meaning": "up / on / start",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "上",
+          4
+        ],
+        [
+          "班",
+          1
+        ]
+      ],
+      "pinyin": "shàngbān",
+      "english": "go to work",
+      "breakdown": "上 + 班 shift"
+    },
+    {
+      "word": [
+        [
+          "上",
+          4
+        ],
+        [
+          "网",
+          3
+        ]
+      ],
+      "pinyin": "shàngwǎng",
+      "english": "go online",
+      "breakdown": "上 + 网 net"
+    },
+    {
+      "word": [
+        [
+          "上",
+          4
+        ],
+        [
+          "海",
+          3
+        ]
+      ],
+      "pinyin": "Shànghǎi",
+      "english": "Shanghai",
+      "breakdown": "上 + 海 sea"
+    },
+    {
+      "word": [
+        [
+          "上",
+          4
+        ],
+        [
+          "午",
+          3
+        ]
+      ],
+      "pinyin": "shàngwǔ",
+      "english": "morning (a.m.)",
+      "breakdown": "上 + 午 noon"
+    },
+    {
+      "word": [
+        [
+          "上",
+          4
+        ],
+        [
+          "课",
+          4
+        ]
+      ],
+      "pinyin": "shàngkè",
+      "english": "attend class",
+      "breakdown": "上 + 课 lesson"
+    },
+    {
+      "word": [
+        [
+          "上",
+          4
+        ],
+        [
+          "车",
+          1
+        ]
+      ],
+      "pinyin": "shàngchē",
+      "english": "board a vehicle",
+      "breakdown": "上 + 车 vehicle"
+    },
+    {
+      "word": [
+        [
+          "上",
+          4
+        ],
+        [
+          "学",
+          2
+        ]
+      ],
+      "pinyin": "shàngxué",
+      "english": "go to school",
+      "breakdown": "上 + 学 study"
+    },
+    {
+      "word": [
+        [
+          "上",
+          4
+        ],
+        [
+          "楼",
+          2
+        ]
+      ],
+      "pinyin": "shànglóu",
+      "english": "go upstairs",
+      "breakdown": "上 + 楼 floor"
+    }
+  ]
+}

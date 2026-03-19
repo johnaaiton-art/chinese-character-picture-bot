@@ -1,0 +1,107 @@
+{
+  "char": "火",
+  "tone": 3,
+  "pinyin": "huǒ",
+  "meaning": "fire",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "火",
+          3
+        ],
+        [
+          "车",
+          1
+        ]
+      ],
+      "pinyin": "huǒchē",
+      "english": "train",
+      "breakdown": "火 fire + 车 vehicle"
+    },
+    {
+      "word": [
+        [
+          "火",
+          3
+        ],
+        [
+          "车",
+          1
+        ],
+        [
+          "站",
+          4
+        ]
+      ],
+      "pinyin": "huǒchē zhàn",
+      "english": "train station",
+      "breakdown": "火车 + 站 station"
+    },
+    {
+      "word": [
+        [
+          "火",
+          3
+        ],
+        [
+          "车",
+          1
+        ],
+        [
+          "票",
+          4
+        ]
+      ],
+      "pinyin": "huǒchē piào",
+      "english": "train ticket",
+      "breakdown": "火车 + 票 ticket"
+    },
+    {
+      "word": [
+        [
+          "火",
+          3
+        ],
+        [
+          "锅",
+          1
+        ]
+      ],
+      "pinyin": "huǒguō",
+      "english": "hot pot",
+      "breakdown": "火 fire + 锅 pot"
+    },
+    {
+      "word": [
+        [
+          "火",
+          3
+        ],
+        [
+          "山",
+          1
+        ]
+      ],
+      "pinyin": "huǒshān",
+      "english": "volcano",
+      "breakdown": "火 + 山 mountain"
+    },
+    {
+      "word": [
+        [
+          "发",
+          1
+        ],
+        [
+          "火",
+          3
+        ]
+      ],
+      "pinyin": "fāhuǒ",
+      "english": "lose one's temper",
+      "breakdown": "发 emit + 火"
+    }
+  ]
+}

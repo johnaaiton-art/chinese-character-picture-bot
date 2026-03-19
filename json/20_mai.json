@@ -1,0 +1,107 @@
+{
+  "char": "买",
+  "tone": 3,
+  "pinyin": "mǎi",
+  "meaning": "buy",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "买",
+          3
+        ],
+        [
+          "单",
+          1
+        ]
+      ],
+      "pinyin": "mǎidān",
+      "english": "pay the bill",
+      "breakdown": "买 + 单 bill"
+    },
+    {
+      "word": [
+        [
+          "买",
+          3
+        ],
+        [
+          "票",
+          4
+        ]
+      ],
+      "pinyin": "mǎi piào",
+      "english": "buy a ticket",
+      "breakdown": "买 + 票 ticket"
+    },
+    {
+      "word": [
+        [
+          "买",
+          3
+        ],
+        [
+          "东",
+          1
+        ],
+        [
+          "西",
+          1
+        ]
+      ],
+      "pinyin": "mǎi dōngxi",
+      "english": "go shopping",
+      "breakdown": "买 + 东西 things"
+    },
+    {
+      "word": [
+        [
+          "买",
+          3
+        ],
+        [
+          "蛋",
+          4
+        ],
+        [
+          "糕",
+          1
+        ]
+      ],
+      "pinyin": "mǎi dàngāo",
+      "english": "buy a cake",
+      "breakdown": "买 + 蛋糕 cake"
+    },
+    {
+      "word": [
+        [
+          "买",
+          3
+        ],
+        [
+          "菜",
+          4
+        ]
+      ],
+      "pinyin": "mǎicài",
+      "english": "buy groceries",
+      "breakdown": "买 + 菜 vegetable"
+    },
+    {
+      "word": [
+        [
+          "超",
+          1
+        ],
+        [
+          "市",
+          4
+        ]
+      ],
+      "pinyin": "chāoshì",
+      "english": "supermarket",
+      "breakdown": "超 super + 市 market"
+    }
+  ]
+}

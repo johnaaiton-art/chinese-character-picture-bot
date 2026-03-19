@@ -1,0 +1,129 @@
+{
+  "char": "电",
+  "tone": 4,
+  "pinyin": "diàn",
+  "meaning": "electricity",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "电",
+          4
+        ],
+        [
+          "话",
+          4
+        ]
+      ],
+      "pinyin": "diànhuà",
+      "english": "phone call",
+      "breakdown": "电 + 话 speech"
+    },
+    {
+      "word": [
+        [
+          "电",
+          4
+        ],
+        [
+          "脑",
+          3
+        ]
+      ],
+      "pinyin": "diànnǎo",
+      "english": "computer",
+      "breakdown": "电 + 脑 brain"
+    },
+    {
+      "word": [
+        [
+          "电",
+          4
+        ],
+        [
+          "视",
+          4
+        ]
+      ],
+      "pinyin": "diànshì",
+      "english": "television",
+      "breakdown": "电 + 视 vision"
+    },
+    {
+      "word": [
+        [
+          "电",
+          4
+        ],
+        [
+          "影",
+          3
+        ]
+      ],
+      "pinyin": "diànyǐng",
+      "english": "movie",
+      "breakdown": "电 + 影 shadow"
+    },
+    {
+      "word": [
+        [
+          "充",
+          1
+        ],
+        [
+          "电",
+          4
+        ]
+      ],
+      "pinyin": "chōngdiàn",
+      "english": "charge (battery)",
+      "breakdown": "充 fill + 电"
+    },
+    {
+      "word": [
+        [
+          "电",
+          4
+        ],
+        [
+          "梯",
+          1
+        ]
+      ],
+      "pinyin": "diàntī",
+      "english": "elevator",
+      "breakdown": "电 + 梯 ladder"
+    },
+    {
+      "word": [
+        [
+          "电",
+          4
+        ],
+        [
+          "池",
+          2
+        ]
+      ],
+      "pinyin": "diànchí",
+      "english": "battery",
+      "breakdown": "电 + 池 pool"
+    },
+    {
+      "word": [
+        [
+          "电",
+          4
+        ],
+        [
+          "费",
+          4
+        ]
+      ],
+      "pinyin": "diànfèi",
+      "english": "electricity bill",
+      "breakdown": "电 + 费 fee"
+    }
+  ]
+}

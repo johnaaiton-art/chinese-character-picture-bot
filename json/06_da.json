@@ -1,0 +1,145 @@
+{
+  "char": "打",
+  "tone": 3,
+  "pinyin": "dǎ",
+  "meaning": "hit / play / do",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "打",
+          3
+        ],
+        [
+          "网",
+          3
+        ],
+        [
+          "球",
+          2
+        ]
+      ],
+      "pinyin": "dǎ wǎngqiú",
+      "english": "play tennis",
+      "breakdown": "打 + 网球 tennis"
+    },
+    {
+      "word": [
+        [
+          "打",
+          3
+        ],
+        [
+          "篮",
+          2
+        ],
+        [
+          "球",
+          2
+        ]
+      ],
+      "pinyin": "dǎ lánqiú",
+      "english": "play basketball",
+      "breakdown": "打 + 篮球 basketball"
+    },
+    {
+      "word": [
+        [
+          "打",
+          3
+        ],
+        [
+          "电",
+          4
+        ],
+        [
+          "话",
+          4
+        ]
+      ],
+      "pinyin": "dǎ diànhuà",
+      "english": "make a phone call",
+      "breakdown": "打 + 电话 phone call"
+    },
+    {
+      "word": [
+        [
+          "打",
+          3
+        ],
+        [
+          "工",
+          1
+        ]
+      ],
+      "pinyin": "dǎgōng",
+      "english": "work for pay",
+      "breakdown": "打 + 工 work"
+    },
+    {
+      "word": [
+        [
+          "打",
+          3
+        ],
+        [
+          "扫",
+          3
+        ]
+      ],
+      "pinyin": "dǎsǎo",
+      "english": "clean / sweep",
+      "breakdown": "打 + 扫 sweep"
+    },
+    {
+      "word": [
+        [
+          "打",
+          3
+        ],
+        [
+          "算",
+          4
+        ]
+      ],
+      "pinyin": "dǎsuàn",
+      "english": "plan / intend",
+      "breakdown": "打 + 算 calculate"
+    },
+    {
+      "word": [
+        [
+          "打",
+          3
+        ],
+        [
+          "折",
+          2
+        ]
+      ],
+      "pinyin": "dǎzhé",
+      "english": "discount",
+      "breakdown": "打 + 折 fold"
+    },
+    {
+      "word": [
+        [
+          "打",
+          3
+        ],
+        [
+          "主",
+          3
+        ],
+        [
+          "意",
+          4
+        ]
+      ],
+      "pinyin": "dǎ zhǔyi",
+      "english": "think of a plan",
+      "breakdown": "打 + 主意 idea"
+    }
+  ]
+}

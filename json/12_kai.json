@@ -1,0 +1,118 @@
+{
+  "char": "开",
+  "tone": 1,
+  "pinyin": "kāi",
+  "meaning": "open / start / drive",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "开",
+          1
+        ],
+        [
+          "车",
+          1
+        ]
+      ],
+      "pinyin": "kāichē",
+      "english": "drive a car",
+      "breakdown": "开 + 车 vehicle"
+    },
+    {
+      "word": [
+        [
+          "开",
+          1
+        ],
+        [
+          "会",
+          4
+        ]
+      ],
+      "pinyin": "kāihuì",
+      "english": "have a meeting",
+      "breakdown": "开 + 会 meeting"
+    },
+    {
+      "word": [
+        [
+          "开",
+          1
+        ],
+        [
+          "心",
+          1
+        ]
+      ],
+      "pinyin": "kāixīn",
+      "english": "happy",
+      "breakdown": "开 + 心 heart"
+    },
+    {
+      "word": [
+        [
+          "开",
+          1
+        ],
+        [
+          "始",
+          3
+        ]
+      ],
+      "pinyin": "kāishǐ",
+      "english": "begin",
+      "breakdown": "开 + 始 begin"
+    },
+    {
+      "word": [
+        [
+          "开",
+          1
+        ],
+        [
+          "门",
+          2
+        ]
+      ],
+      "pinyin": "kāimén",
+      "english": "open the door",
+      "breakdown": "开 + 门 door"
+    },
+    {
+      "word": [
+        [
+          "开",
+          1
+        ],
+        [
+          "学",
+          2
+        ]
+      ],
+      "pinyin": "kāixué",
+      "english": "start of term",
+      "breakdown": "开 + 学 study"
+    },
+    {
+      "word": [
+        [
+          "开",
+          1
+        ],
+        [
+          "玩",
+          2
+        ],
+        [
+          "笑",
+          4
+        ]
+      ],
+      "pinyin": "kāi wánxiào",
+      "english": "joke / kidding",
+      "breakdown": "开 + 玩笑 joke"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "char": "出",
+  "tone": 1,
+  "pinyin": "chū",
+  "meaning": "go out / emerge",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "出",
+          1
+        ],
+        [
+          "去",
+          4
+        ]
+      ],
+      "pinyin": "chūqù",
+      "english": "go out",
+      "breakdown": "出 + 去 go"
+    },
+    {
+      "word": [
+        [
+          "出",
+          1
+        ],
+        [
+          "租",
+          1
+        ],
+        [
+          "车",
+          1
+        ]
+      ],
+      "pinyin": "chūzūchē",
+      "english": "taxi",
+      "breakdown": "出 + 租车 rent car"
+    },
+    {
+      "word": [
+        [
+          "出",
+          1
+        ],
+        [
+          "门",
+          2
+        ]
+      ],
+      "pinyin": "chūmén",
+      "english": "leave the house",
+      "breakdown": "出 + 门 door"
+    },
+    {
+      "word": [
+        [
+          "出",
+          1
+        ],
+        [
+          "发",
+          1
+        ]
+      ],
+      "pinyin": "chūfā",
+      "english": "set off",
+      "breakdown": "出 + 发 send"
+    },
+    {
+      "word": [
+        [
+          "出",
+          1
+        ],
+        [
+          "国",
+          2
+        ]
+      ],
+      "pinyin": "chūguó",
+      "english": "go abroad",
+      "breakdown": "出 + 国 country"
+    },
+    {
+      "word": [
+        [
+          "出",
+          1
+        ],
+        [
+          "差",
+          1
+        ]
+      ],
+      "pinyin": "chūchāi",
+      "english": "business trip",
+      "breakdown": "出 + 差 errand"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "char": "吃",
+  "tone": 1,
+  "pinyin": "chī",
+  "meaning": "eat",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "吃",
+          1
+        ],
+        [
+          "饭",
+          4
+        ]
+      ],
+      "pinyin": "chīfàn",
+      "english": "eat a meal",
+      "breakdown": "吃 + 饭 rice/meal"
+    },
+    {
+      "word": [
+        [
+          "吃",
+          1
+        ],
+        [
+          "面",
+          4
+        ]
+      ],
+      "pinyin": "chī miàn",
+      "english": "eat noodles",
+      "breakdown": "吃 + 面 noodles"
+    },
+    {
+      "word": [
+        [
+          "吃",
+          1
+        ],
+        [
+          "素",
+          4
+        ]
+      ],
+      "pinyin": "chīsù",
+      "english": "be vegetarian",
+      "breakdown": "吃 + 素 plain"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "吃",
+          1
+        ]
+      ],
+      "pinyin": "hǎochī",
+      "english": "delicious",
+      "breakdown": "好 good + 吃"
+    },
+    {
+      "word": [
+        [
+          "吃",
+          1
+        ],
+        [
+          "惊",
+          1
+        ]
+      ],
+      "pinyin": "chījīng",
+      "english": "be surprised",
+      "breakdown": "吃 + 惊 shock"
+    },
+    {
+      "word": [
+        [
+          "吃",
+          1
+        ],
+        [
+          "力",
+          4
+        ]
+      ],
+      "pinyin": "chīlì",
+      "english": "struggle / strenuous",
+      "breakdown": "吃 + 力 effort"
+    },
+    {
+      "word": [
+        [
+          "吃",
+          1
+        ],
+        [
+          "亏",
+          1
+        ]
+      ],
+      "pinyin": "chīkuī",
+      "english": "suffer a loss",
+      "breakdown": "吃 + 亏 loss"
+    }
+  ]
+}

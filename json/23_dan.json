@@ -1,0 +1,83 @@
+{
+  "char": "旦",
+  "tone": 4,
+  "pinyin": "dàn",
+  "meaning": "dawn (phonetic seed)",
+  "type": "phonetic",
+  "satellites": [
+    {
+      "word": [
+        [
+          "但",
+          4
+        ]
+      ],
+      "pinyin": "dàn",
+      "english": "but / however",
+      "breakdown": "亻person + 旦"
+    },
+    {
+      "word": [
+        [
+          "担",
+          1
+        ]
+      ],
+      "pinyin": "dān",
+      "english": "carry / worry",
+      "breakdown": "扌hand + 旦"
+    },
+    {
+      "word": [
+        [
+          "胆",
+          3
+        ]
+      ],
+      "pinyin": "dǎn",
+      "english": "gallbladder / guts",
+      "breakdown": "月 flesh + 旦"
+    },
+    {
+      "word": [
+        [
+          "坦",
+          3
+        ]
+      ],
+      "pinyin": "tǎn",
+      "english": "flat / frank",
+      "breakdown": "土 earth + 旦"
+    },
+    {
+      "word": [
+        [
+          "元",
+          2
+        ],
+        [
+          "旦",
+          4
+        ]
+      ],
+      "pinyin": "Yuándàn",
+      "english": "New Year's Day",
+      "breakdown": "元 first + 旦 dawn"
+    },
+    {
+      "word": [
+        [
+          "坦",
+          3
+        ],
+        [
+          "克",
+          4
+        ]
+      ],
+      "pinyin": "tǎnkè",
+      "english": "tank (vehicle!)",
+      "breakdown": "坦 + 克 overcome"
+    }
+  ]
+}

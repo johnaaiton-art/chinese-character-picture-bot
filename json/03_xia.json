@@ -1,0 +1,129 @@
+{
+  "char": "下",
+  "tone": 4,
+  "pinyin": "xià",
+  "meaning": "down / off / under",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "下",
+          4
+        ],
+        [
+          "班",
+          1
+        ]
+      ],
+      "pinyin": "xiàbān",
+      "english": "finish work",
+      "breakdown": "下 + 班 shift"
+    },
+    {
+      "word": [
+        [
+          "下",
+          4
+        ],
+        [
+          "午",
+          3
+        ]
+      ],
+      "pinyin": "xiàwǔ",
+      "english": "afternoon",
+      "breakdown": "下 + 午 noon"
+    },
+    {
+      "word": [
+        [
+          "下",
+          4
+        ],
+        [
+          "雨",
+          3
+        ]
+      ],
+      "pinyin": "xiàyǔ",
+      "english": "rain",
+      "breakdown": "下 + 雨 rain"
+    },
+    {
+      "word": [
+        [
+          "下",
+          4
+        ],
+        [
+          "雪",
+          3
+        ]
+      ],
+      "pinyin": "xiàxuě",
+      "english": "snow",
+      "breakdown": "下 + 雪 snow"
+    },
+    {
+      "word": [
+        [
+          "下",
+          4
+        ],
+        [
+          "课",
+          4
+        ]
+      ],
+      "pinyin": "xiàkè",
+      "english": "finish class",
+      "breakdown": "下 + 课 lesson"
+    },
+    {
+      "word": [
+        [
+          "下",
+          4
+        ],
+        [
+          "楼",
+          2
+        ]
+      ],
+      "pinyin": "xiàlóu",
+      "english": "go downstairs",
+      "breakdown": "下 + 楼 floor"
+    },
+    {
+      "word": [
+        [
+          "下",
+          4
+        ],
+        [
+          "载",
+          4
+        ]
+      ],
+      "pinyin": "xiàzài",
+      "english": "download",
+      "breakdown": "下 + 载 load"
+    },
+    {
+      "word": [
+        [
+          "下",
+          4
+        ],
+        [
+          "周",
+          1
+        ]
+      ],
+      "pinyin": "xiàzhōu",
+      "english": "next week",
+      "breakdown": "下 + 周 week"
+    }
+  ]
+}

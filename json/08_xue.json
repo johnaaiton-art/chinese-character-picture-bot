@@ -1,0 +1,133 @@
+{
+  "char": "学",
+  "tone": 2,
+  "pinyin": "xué",
+  "meaning": "study / learn",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "学",
+          2
+        ],
+        [
+          "习",
+          2
+        ]
+      ],
+      "pinyin": "xuéxí",
+      "english": "study / practise",
+      "breakdown": "学 + 习 practise"
+    },
+    {
+      "word": [
+        [
+          "学",
+          2
+        ],
+        [
+          "校",
+          4
+        ]
+      ],
+      "pinyin": "xuéxiào",
+      "english": "school",
+      "breakdown": "学 + 校 school"
+    },
+    {
+      "word": [
+        [
+          "大",
+          4
+        ],
+        [
+          "学",
+          2
+        ]
+      ],
+      "pinyin": "dàxué",
+      "english": "university",
+      "breakdown": "大 big + 学"
+    },
+    {
+      "word": [
+        [
+          "学",
+          2
+        ],
+        [
+          "汉",
+          4
+        ],
+        [
+          "字",
+          4
+        ]
+      ],
+      "pinyin": "xué hànzì",
+      "english": "study Chinese characters",
+      "breakdown": "学 + 汉字"
+    },
+    {
+      "word": [
+        [
+          "学",
+          2
+        ],
+        [
+          "生",
+          1
+        ]
+      ],
+      "pinyin": "xuésheng",
+      "english": "student",
+      "breakdown": "学 + 生 born/live"
+    },
+    {
+      "word": [
+        [
+          "留",
+          2
+        ],
+        [
+          "学",
+          2
+        ]
+      ],
+      "pinyin": "liúxué",
+      "english": "study abroad",
+      "breakdown": "留 stay + 学"
+    },
+    {
+      "word": [
+        [
+          "同",
+          2
+        ],
+        [
+          "学",
+          2
+        ]
+      ],
+      "pinyin": "tóngxué",
+      "english": "classmate",
+      "breakdown": "同 same + 学"
+    },
+    {
+      "word": [
+        [
+          "开",
+          1
+        ],
+        [
+          "学",
+          2
+        ]
+      ],
+      "pinyin": "kāixué",
+      "english": "start of term",
+      "breakdown": "开 open + 学"
+    }
+  ]
+}

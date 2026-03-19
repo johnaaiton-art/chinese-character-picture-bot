@@ -1,0 +1,123 @@
+{
+  "char": "氵",
+  "tone": 0,
+  "pinyin": "sān diǎn shuǐ",
+  "meaning": "water radical",
+  "type": "phonetic",
+  "satellites": [
+    {
+      "word": [
+        [
+          "游",
+          2
+        ],
+        [
+          "泳",
+          3
+        ]
+      ],
+      "pinyin": "yóuyǒng",
+      "english": "swim",
+      "breakdown": "氵in 游 + 泳"
+    },
+    {
+      "word": [
+        [
+          "海",
+          3
+        ]
+      ],
+      "pinyin": "hǎi",
+      "english": "sea",
+      "breakdown": "氵+ 每"
+    },
+    {
+      "word": [
+        [
+          "法",
+          3
+        ]
+      ],
+      "pinyin": "fǎ",
+      "english": "law / method",
+      "breakdown": "氵+ 去"
+    },
+    {
+      "word": [
+        [
+          "冰",
+          1
+        ]
+      ],
+      "pinyin": "bīng",
+      "english": "ice",
+      "breakdown": "氵frozen form"
+    },
+    {
+      "word": [
+        [
+          "洗",
+          3
+        ]
+      ],
+      "pinyin": "xǐ",
+      "english": "wash",
+      "breakdown": "氵+ 先"
+    },
+    {
+      "word": [
+        [
+          "酒",
+          3
+        ]
+      ],
+      "pinyin": "jiǔ",
+      "english": "alcohol",
+      "breakdown": "氵+ 酉"
+    },
+    {
+      "word": [
+        [
+          "汤",
+          1
+        ]
+      ],
+      "pinyin": "tāng",
+      "english": "soup",
+      "breakdown": "氵+ 易"
+    },
+    {
+      "word": [
+        [
+          "河",
+          2
+        ]
+      ],
+      "pinyin": "hé",
+      "english": "river",
+      "breakdown": "氵+ 可"
+    },
+    {
+      "word": [
+        [
+          "浪",
+          4
+        ]
+      ],
+      "pinyin": "làng",
+      "english": "wave",
+      "breakdown": "氵+ 良"
+    },
+    {
+      "word": [
+        [
+          "流",
+          2
+        ]
+      ],
+      "pinyin": "liú",
+      "english": "flow",
+      "breakdown": "氵+ 㐬"
+    }
+  ]
+}

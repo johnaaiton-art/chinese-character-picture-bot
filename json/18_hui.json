@@ -1,0 +1,103 @@
+{
+  "char": "回",
+  "tone": 2,
+  "pinyin": "huí",
+  "meaning": "return / go back",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "回",
+          2
+        ],
+        [
+          "家",
+          1
+        ]
+      ],
+      "pinyin": "huíjiā",
+      "english": "go home",
+      "breakdown": "回 + 家 home"
+    },
+    {
+      "word": [
+        [
+          "回",
+          2
+        ],
+        [
+          "来",
+          2
+        ]
+      ],
+      "pinyin": "huílai",
+      "english": "come back",
+      "breakdown": "回 + 来 come"
+    },
+    {
+      "word": [
+        [
+          "送",
+          4
+        ],
+        [
+          "回",
+          2
+        ],
+        [
+          "家",
+          1
+        ]
+      ],
+      "pinyin": "sòng huí jiā",
+      "english": "see someone home",
+      "breakdown": "送 + 回 + 家"
+    },
+    {
+      "word": [
+        [
+          "回",
+          2
+        ],
+        [
+          "答",
+          2
+        ]
+      ],
+      "pinyin": "huídá",
+      "english": "answer / reply",
+      "breakdown": "回 + 答 answer"
+    },
+    {
+      "word": [
+        [
+          "回",
+          2
+        ],
+        [
+          "头",
+          2
+        ]
+      ],
+      "pinyin": "huítóu",
+      "english": "look back / later",
+      "breakdown": "回 + 头 head"
+    },
+    {
+      "word": [
+        [
+          "回",
+          2
+        ],
+        [
+          "国",
+          2
+        ]
+      ],
+      "pinyin": "huíguó",
+      "english": "return to home country",
+      "breakdown": "回 + 国 country"
+    }
+  ]
+}

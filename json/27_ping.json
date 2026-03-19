@@ -1,0 +1,68 @@
+{
+  "char": "平",
+  "tone": 2,
+  "pinyin": "píng",
+  "meaning": "flat / peaceful",
+  "type": "phonetic",
+  "satellites": [
+    {
+      "word": [
+        [
+          "评",
+          2
+        ]
+      ],
+      "pinyin": "píng",
+      "english": "comment / review",
+      "breakdown": "讠speech + 平"
+    },
+    {
+      "word": [
+        [
+          "苹",
+          2
+        ]
+      ],
+      "pinyin": "píng",
+      "english": "apple (苹果)",
+      "breakdown": "艹grass + 平"
+    },
+    {
+      "word": [
+        [
+          "坪",
+          2
+        ]
+      ],
+      "pinyin": "píng",
+      "english": "level ground",
+      "breakdown": "土 earth + 平"
+    },
+    {
+      "word": [
+        [
+          "萍",
+          2
+        ]
+      ],
+      "pinyin": "píng",
+      "english": "duckweed",
+      "breakdown": "艹+ 苹 (⊃平)"
+    },
+    {
+      "word": [
+        [
+          "平",
+          2
+        ],
+        [
+          "时",
+          2
+        ]
+      ],
+      "pinyin": "píngshí",
+      "english": "usually / normally",
+      "breakdown": "平 + 时 time"
+    }
+  ]
+}

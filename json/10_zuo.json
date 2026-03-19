@@ -1,0 +1,111 @@
+{
+  "char": "坐",
+  "tone": 4,
+  "pinyin": "zuò",
+  "meaning": "sit / travel by",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "坐",
+          4
+        ],
+        [
+          "火",
+          3
+        ],
+        [
+          "车",
+          1
+        ]
+      ],
+      "pinyin": "zuò huǒchē",
+      "english": "take a train",
+      "breakdown": "坐 + 火车 train"
+    },
+    {
+      "word": [
+        [
+          "坐",
+          4
+        ],
+        [
+          "飞",
+          1
+        ],
+        [
+          "机",
+          1
+        ]
+      ],
+      "pinyin": "zuò fēijī",
+      "english": "take a plane",
+      "breakdown": "坐 + 飞机 plane"
+    },
+    {
+      "word": [
+        [
+          "坐",
+          4
+        ],
+        [
+          "地",
+          4
+        ],
+        [
+          "铁",
+          3
+        ]
+      ],
+      "pinyin": "zuò dìtiě",
+      "english": "take the subway",
+      "breakdown": "坐 + 地铁 subway"
+    },
+    {
+      "word": [
+        [
+          "请",
+          3
+        ],
+        [
+          "坐",
+          4
+        ]
+      ],
+      "pinyin": "qǐng zuò",
+      "english": "please sit down",
+      "breakdown": "请 please + 坐"
+    },
+    {
+      "word": [
+        [
+          "坐",
+          4
+        ],
+        [
+          "下",
+          4
+        ]
+      ],
+      "pinyin": "zuòxià",
+      "english": "sit down",
+      "breakdown": "坐 + 下 down"
+    },
+    {
+      "word": [
+        [
+          "坐",
+          4
+        ],
+        [
+          "位",
+          4
+        ]
+      ],
+      "pinyin": "zuòwèi",
+      "english": "seat",
+      "breakdown": "坐 + 位 position"
+    }
+  ]
+}

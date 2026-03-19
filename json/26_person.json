@@ -1,0 +1,90 @@
+{
+  "char": "亻",
+  "tone": 0,
+  "pinyin": "rén páng",
+  "meaning": "person radical",
+  "type": "phonetic",
+  "satellites": [
+    {
+      "word": [
+        [
+          "你",
+          3
+        ]
+      ],
+      "pinyin": "nǐ",
+      "english": "you",
+      "breakdown": "亻+ 尔"
+    },
+    {
+      "word": [
+        [
+          "他",
+          1
+        ]
+      ],
+      "pinyin": "tā",
+      "english": "he / him",
+      "breakdown": "亻+ 也"
+    },
+    {
+      "word": [
+        [
+          "她",
+          1
+        ]
+      ],
+      "pinyin": "tā",
+      "english": "she / her",
+      "breakdown": "女 + 也"
+    },
+    {
+      "word": [
+        [
+          "但",
+          4
+        ]
+      ],
+      "pinyin": "dàn",
+      "english": "but",
+      "breakdown": "亻+ 旦"
+    },
+    {
+      "word": [
+        [
+          "休",
+          1
+        ],
+        [
+          "息",
+          0
+        ]
+      ],
+      "pinyin": "xiūxi",
+      "english": "rest",
+      "breakdown": "亻+ 木 tree"
+    },
+    {
+      "word": [
+        [
+          "借",
+          4
+        ]
+      ],
+      "pinyin": "jiè",
+      "english": "borrow / lend",
+      "breakdown": "亻+ 昔"
+    },
+    {
+      "word": [
+        [
+          "作",
+          4
+        ]
+      ],
+      "pinyin": "zuò",
+      "english": "work / make",
+      "breakdown": "亻+ 乍"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "char": "地",
+  "tone": 4,
+  "pinyin": "dì",
+  "meaning": "ground / earth / place",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "地",
+          4
+        ],
+        [
+          "方",
+          1
+        ]
+      ],
+      "pinyin": "dìfāng",
+      "english": "place",
+      "breakdown": "地 + 方 direction"
+    },
+    {
+      "word": [
+        [
+          "地",
+          4
+        ],
+        [
+          "址",
+          3
+        ]
+      ],
+      "pinyin": "dìzhǐ",
+      "english": "address",
+      "breakdown": "地 + 址 site"
+    },
+    {
+      "word": [
+        [
+          "地",
+          4
+        ],
+        [
+          "铁",
+          3
+        ]
+      ],
+      "pinyin": "dìtiě",
+      "english": "subway / metro",
+      "breakdown": "地 + 铁 iron"
+    },
+    {
+      "word": [
+        [
+          "地",
+          4
+        ],
+        [
+          "球",
+          2
+        ]
+      ],
+      "pinyin": "dìqiú",
+      "english": "the Earth",
+      "breakdown": "地 + 球 ball"
+    },
+    {
+      "word": [
+        [
+          "地",
+          4
+        ],
+        [
+          "图",
+          2
+        ]
+      ],
+      "pinyin": "dìtú",
+      "english": "map",
+      "breakdown": "地 + 图 picture"
+    },
+    {
+      "word": [
+        [
+          "本",
+          3
+        ],
+        [
+          "地",
+          4
+        ]
+      ],
+      "pinyin": "běndì",
+      "english": "local",
+      "breakdown": "本 root + 地"
+    },
+    {
+      "word": [
+        [
+          "地",
+          4
+        ],
+        [
+          "道",
+          4
+        ]
+      ],
+      "pinyin": "dìdào",
+      "english": "authentic / tunnel",
+      "breakdown": "地 + 道 road"
+    }
+  ]
+}

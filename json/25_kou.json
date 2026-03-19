@@ -1,0 +1,105 @@
+{
+  "char": "口",
+  "tone": 3,
+  "pinyin": "kǒu",
+  "meaning": "mouth radical",
+  "type": "phonetic",
+  "satellites": [
+    {
+      "word": [
+        [
+          "叫",
+          4
+        ]
+      ],
+      "pinyin": "jiào",
+      "english": "call / be named",
+      "breakdown": "口 + 丩"
+    },
+    {
+      "word": [
+        [
+          "吃",
+          1
+        ]
+      ],
+      "pinyin": "chī",
+      "english": "eat",
+      "breakdown": "口 + 乞"
+    },
+    {
+      "word": [
+        [
+          "喝",
+          1
+        ]
+      ],
+      "pinyin": "hē",
+      "english": "drink",
+      "breakdown": "口 + 曷"
+    },
+    {
+      "word": [
+        [
+          "唱",
+          4
+        ]
+      ],
+      "pinyin": "chàng",
+      "english": "sing",
+      "breakdown": "口 + 昌"
+    },
+    {
+      "word": [
+        [
+          "问",
+          4
+        ]
+      ],
+      "pinyin": "wèn",
+      "english": "ask",
+      "breakdown": "口 + 门"
+    },
+    {
+      "word": [
+        [
+          "吗",
+          0
+        ]
+      ],
+      "pinyin": "ma",
+      "english": "question particle",
+      "breakdown": "口 + 马"
+    },
+    {
+      "word": [
+        [
+          "口",
+          3
+        ],
+        [
+          "语",
+          3
+        ]
+      ],
+      "pinyin": "kǒuyǔ",
+      "english": "spoken language",
+      "breakdown": "口 + 语 language"
+    },
+    {
+      "word": [
+        [
+          "出",
+          1
+        ],
+        [
+          "口",
+          3
+        ]
+      ],
+      "pinyin": "chūkǒu",
+      "english": "exit / export",
+      "breakdown": "出 + 口"
+    }
+  ]
+}

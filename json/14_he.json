@@ -1,0 +1,118 @@
+{
+  "char": "喝",
+  "tone": 1,
+  "pinyin": "hē",
+  "meaning": "drink",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "喝",
+          1
+        ],
+        [
+          "茶",
+          2
+        ]
+      ],
+      "pinyin": "hē chá",
+      "english": "drink tea",
+      "breakdown": "喝 + 茶 tea"
+    },
+    {
+      "word": [
+        [
+          "喝",
+          1
+        ],
+        [
+          "酒",
+          3
+        ]
+      ],
+      "pinyin": "hējiǔ",
+      "english": "drink alcohol",
+      "breakdown": "喝 + 酒 alcohol"
+    },
+    {
+      "word": [
+        [
+          "喝",
+          1
+        ],
+        [
+          "牛",
+          2
+        ],
+        [
+          "奶",
+          3
+        ]
+      ],
+      "pinyin": "hē niúnǎi",
+      "english": "drink milk",
+      "breakdown": "喝 + 牛奶 milk"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "喝",
+          1
+        ]
+      ],
+      "pinyin": "hǎohē",
+      "english": "tasty (drink)",
+      "breakdown": "好 good + 喝"
+    },
+    {
+      "word": [
+        [
+          "喝",
+          1
+        ],
+        [
+          "水",
+          3
+        ]
+      ],
+      "pinyin": "hēshuǐ",
+      "english": "drink water",
+      "breakdown": "喝 + 水 water"
+    },
+    {
+      "word": [
+        [
+          "喝",
+          1
+        ],
+        [
+          "汤",
+          1
+        ]
+      ],
+      "pinyin": "hē tāng",
+      "english": "drink soup",
+      "breakdown": "喝 + 汤 soup"
+    },
+    {
+      "word": [
+        [
+          "喝",
+          1
+        ],
+        [
+          "醉",
+          4
+        ]
+      ],
+      "pinyin": "hēzuì",
+      "english": "get drunk",
+      "breakdown": "喝 + 醉 drunk"
+    }
+  ]
+}

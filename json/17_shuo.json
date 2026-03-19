@@ -1,0 +1,126 @@
+{
+  "char": "说",
+  "tone": 1,
+  "pinyin": "shuō",
+  "meaning": "speak / say",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "说",
+          1
+        ],
+        [
+          "话",
+          4
+        ]
+      ],
+      "pinyin": "shuōhuà",
+      "english": "speak / talk",
+      "breakdown": "说 + 话 speech"
+    },
+    {
+      "word": [
+        [
+          "说",
+          1
+        ],
+        [
+          "谎",
+          3
+        ]
+      ],
+      "pinyin": "shuōhuǎng",
+      "english": "tell a lie",
+      "breakdown": "说 + 谎 lie"
+    },
+    {
+      "word": [
+        [
+          "说",
+          1
+        ],
+        [
+          "得",
+          2
+        ],
+        [
+          "对",
+          4
+        ]
+      ],
+      "pinyin": "shuō de duì",
+      "english": "you're right",
+      "breakdown": "说 + 得对"
+    },
+    {
+      "word": [
+        [
+          "难",
+          2
+        ],
+        [
+          "说",
+          1
+        ]
+      ],
+      "pinyin": "nán shuō",
+      "english": "hard to say",
+      "breakdown": "难 hard + 说"
+    },
+    {
+      "word": [
+        [
+          "小",
+          3
+        ],
+        [
+          "说",
+          1
+        ]
+      ],
+      "pinyin": "xiǎoshuō",
+      "english": "novel / fiction",
+      "breakdown": "小 small + 说"
+    },
+    {
+      "word": [
+        [
+          "说",
+          1
+        ],
+        [
+          "不",
+          4
+        ],
+        [
+          "定",
+          4
+        ]
+      ],
+      "pinyin": "shuō bu dìng",
+      "english": "maybe / perhaps",
+      "breakdown": "说不定"
+    },
+    {
+      "word": [
+        [
+          "不",
+          4
+        ],
+        [
+          "用",
+          4
+        ],
+        [
+          "说",
+          1
+        ]
+      ],
+      "pinyin": "bù yòng shuō",
+      "english": "needless to say",
+      "breakdown": "不用 + 说"
+    }
+  ]
+}

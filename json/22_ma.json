@@ -1,0 +1,64 @@
+{
+  "char": "马",
+  "tone": 3,
+  "pinyin": "mǎ",
+  "meaning": "horse (phonetic seed)",
+  "type": "phonetic",
+  "satellites": [
+    {
+      "word": [
+        [
+          "马",
+          3
+        ]
+      ],
+      "pinyin": "mǎ",
+      "english": "horse",
+      "breakdown": "the original"
+    },
+    {
+      "word": [
+        [
+          "妈",
+          1
+        ]
+      ],
+      "pinyin": "mā",
+      "english": "mum",
+      "breakdown": "女 woman + 马"
+    },
+    {
+      "word": [
+        [
+          "吗",
+          0
+        ]
+      ],
+      "pinyin": "ma",
+      "english": "question particle",
+      "breakdown": "口 mouth + 马"
+    },
+    {
+      "word": [
+        [
+          "骂",
+          4
+        ]
+      ],
+      "pinyin": "mà",
+      "english": "scold",
+      "breakdown": "口口 + 马"
+    },
+    {
+      "word": [
+        [
+          "码",
+          3
+        ]
+      ],
+      "pinyin": "mǎ",
+      "english": "code / number",
+      "breakdown": "石 stone + 马"
+    }
+  ]
+}

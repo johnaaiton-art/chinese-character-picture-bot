@@ -1,0 +1,133 @@
+{
+  "char": "好",
+  "tone": 3,
+  "pinyin": "hǎo",
+  "meaning": "good / well",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "吃",
+          1
+        ]
+      ],
+      "pinyin": "hǎochī",
+      "english": "delicious",
+      "breakdown": "好 + 吃 eat"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "喝",
+          1
+        ]
+      ],
+      "pinyin": "hǎohē",
+      "english": "tasty (drink)",
+      "breakdown": "好 + 喝 drink"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "主",
+          3
+        ],
+        [
+          "意",
+          4
+        ]
+      ],
+      "pinyin": "hǎo zhǔyi",
+      "english": "good idea",
+      "breakdown": "好 + 主意 idea"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "看",
+          4
+        ]
+      ],
+      "pinyin": "hǎokàn",
+      "english": "good-looking",
+      "breakdown": "好 + 看 look"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "笑",
+          4
+        ]
+      ],
+      "pinyin": "hǎoxiào",
+      "english": "funny",
+      "breakdown": "好 + 笑 laugh"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "听",
+          1
+        ]
+      ],
+      "pinyin": "hǎotīng",
+      "english": "nice to hear",
+      "breakdown": "好 + 听 listen"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "用",
+          4
+        ]
+      ],
+      "pinyin": "hǎoyòng",
+      "english": "handy / useful",
+      "breakdown": "好 + 用 use"
+    },
+    {
+      "word": [
+        [
+          "好",
+          3
+        ],
+        [
+          "久",
+          3
+        ]
+      ],
+      "pinyin": "hǎojiǔ",
+      "english": "long time (no see)",
+      "breakdown": "好 + 久 long time"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "char": "游",
+  "tone": 2,
+  "pinyin": "yóu",
+  "meaning": "swim / travel / play",
+  "type": "collocation",
+  "satellites": [
+    {
+      "word": [
+        [
+          "游",
+          2
+        ],
+        [
+          "戏",
+          4
+        ]
+      ],
+      "pinyin": "yóuxì",
+      "english": "game",
+      "breakdown": "游 + 戏 play"
+    },
+    {
+      "word": [
+        [
+          "游",
+          2
+        ],
+        [
+          "泳",
+          3
+        ]
+      ],
+      "pinyin": "yóuyǒng",
+      "english": "swim",
+      "breakdown": "游 + 泳 swim"
+    },
+    {
+      "word": [
+        [
+          "旅",
+          3
+        ],
+        [
+          "游",
+          2
+        ]
+      ],
+      "pinyin": "lǚyóu",
+      "english": "travel",
+      "breakdown": "旅 travel + 游"
+    },
+    {
+      "word": [
+        [
+          "电",
+          4
+        ],
+        [
+          "脑",
+          3
+        ],
+        [
+          "游",
+          2
+        ],
+        [
+          "戏",
+          4
+        ]
+      ],
+      "pinyin": "diànnǎo yóuxì",
+      "english": "computer game",
+      "breakdown": "电脑 computer + 游戏"
+    },
+    {
+      "word": [
+        [
+          "手",
+          3
+        ],
+        [
+          "机",
+          1
+        ],
+        [
+          "游",
+          2
+        ],
+        [
+          "戏",
+          4
+        ]
+      ],
+      "pinyin": "shǒujī yóuxì",
+      "english": "mobile game",
+      "breakdown": "手机 phone + 游戏"
+    },
+    {
+      "word": [
+        [
+          "游",
+          2
+        ],
+        [
+          "客",
+          4
+        ]
+      ],
+      "pinyin": "yóukè",
+      "english": "tourist",
+      "breakdown": "游 + 客 guest"
+    },
+    {
+      "word": [
+        [
+          "导",
+          3
+        ],
+        [
+          "游",
+          2
+        ]
+      ],
+      "pinyin": "dǎoyóu",
+      "english": "tour guide",
+      "breakdown": "导 guide + 游"
+    }
+  ]
+}
